@@ -1,0 +1,12 @@
+Notas de modificaciones
+
+m_parentHeldObject = true siempre
+m_moveHandPosition = false siempre
+
+m_gripTransform, ver si es necesario
+
+
+m_parentTransform siempre será null
+
+m_operatingWithoutOVRCameraRig ver si se necesita
+
